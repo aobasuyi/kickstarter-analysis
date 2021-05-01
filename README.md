@@ -17,7 +17,7 @@ The first deliverable of this project was to determine if there were certain tim
 - Filter the column labels to show only "successful," "failed," and "canceled."
 - Filter the "Parent Category" to show only the data for "theater."
 - Sort the campaign outcomes in descending order so "successful" is first.
-- Finally, create a line chart from the pivot table to visualize the relationship between outcomes and launch month.   *![Alt text](resources/Outcomes_vs_Goals.png)*.
+- Finally, create a line chart from the pivot table to visualize the relationship between outcomes and launch month.   *![Alt text](resources/Theater_Outcomes_vs_Launch.png)*.
 
 ### Analysis of Outcomes Based on Goals
 The second deliverable was to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
@@ -27,7 +27,7 @@ The second deliverable was to visualize the percentage of successful, failed, an
 - Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created in Step 3, and on the "Subcategory" column using "plays" as the criteria.
 - Calculate the sum of "Total Projects" column with the number of successful, failed, and canceled projects for each row.
 - Calculate the percentage of successful, failed, and canceled projects for each row.
-- Finally, create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. <br /> *[Outcome Based on Goals](path/to/image_name.png)*
+- Finally, create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. <br /> *![Alt text](resources/Outcomes_vs_Goals.png)*
 
 ### Challenges and Difficulties Encountered
 Minor challenges encountered during the project consisted mostly of “errors” when using the COUNTIFS function. The errors were easily fixed by checking that the “criteria” and the “goal amount ranges” in the COUNTIFS formula were entered correctly in the formula bar. 
