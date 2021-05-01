@@ -17,7 +17,7 @@ The first deliverable of this project was to determine if there were certain tim
 - Filter the column labels to show only "successful," "failed," and "canceled."
 - Filter the "Parent Category" to show only the data for "theater."
 - Sort the campaign outcomes in descending order so "successful" is first.
-- Finally, create a line chart from the pivot table to visualize the relationship between outcomes and launch month.   *!(resources/Outcomes_vs_Goals.png)*.
+- Finally, create a line chart from the pivot table to visualize the relationship between outcomes and launch month.   *![Alt text](resources/Outcomes_vs_Goals.png)*.
 
 ### Analysis of Outcomes Based on Goals
 The second deliverable was to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
