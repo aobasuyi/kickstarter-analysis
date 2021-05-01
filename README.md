@@ -2,10 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project: 
-This project uses Excel to organise, sort and analyze a dataset consisting of over 4,000 crowdfunding projects to uncover hidden trends. The results of the analysis will provide insights in how to plan a fundraising campaign to fund a play estimated to cost about $10,000. The analysis will also help to determine whether there are specific factors that make theatrical production fundraising campaigns successful.
+This project uses Excel to organise, sort and analyze a dataset consisting of over 4,000 crowdfunding projects to uncover hidden trends. The results of the analysis will provide insights in how to plan a fundraising campaign to fund a play estimated to cost about $10,000. The analysis will help to determine whether there are specific factors that make theatrical production fundraising campaigns successful.
 
 ### Purpose: 
-To determine how different theatrical production campaigns fared in relation to their launch dates and their funding goals. This will provide insights that will help in setting goals to mirror successful campaigns in the theatrical productions’ category.
+To determine how theatrical production campaigns fared in relation to their launch dates and their funding goals. This will provide insights that will help in setting goals to mirror successful campaigns in the theatrical productions’ category.
 
 ## Analysis and Challenges: 
 Data preparation steps taken prior to starting this analysis include sorting, filtering and formatting the Kickstarter dataset to convert data into readable and easy to use formats that will generate more insights [Kickstarter_analysis](https://github.com/aobasuyi/kickstarter-analysis/edit/main/README.md)
