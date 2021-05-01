@@ -8,7 +8,7 @@ This project uses Excel to organise, sort and analyze a dataset consisting of ov
 To determine how theatrical production campaigns fared in relation to their launch dates and their funding goals. This will provide insights that will help in setting goals to mirror successful campaigns in the theatrical productions’ category.
 
 ## Analysis and Challenges: 
-Data preparation steps taken prior to starting this analysis include sorting, filtering and formatting the Kickstarter dataset to convert data into readable and easy to use formats that will generate more insights [Kickstarter_analysis](https://github.com/aobasuyi/kickstarter-analysis/edit/main/README.md)
+Data preparation steps taken prior to starting this analysis include sorting, filtering and formatting the Kickstarter dataset to convert data into readable and easy to use formats that will generate more insights [Kickstarter_analysis](https://github.com/aobasuyi/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Launch Date
 The first deliverable of this project was to determine if there were certain times of the year when theatrical production campaigns tend to be more successful. Steps taken include
