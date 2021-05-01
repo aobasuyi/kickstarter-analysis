@@ -1,5 +1,4 @@
 # Kickstarting with Excel
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project: 
 This project uses Excel to organise, sort and analyze a dataset consisting of over 4,000 crowdfunding projects to uncover hidden trends. The results of the analysis will provide insights in how to plan a fundraising campaign to fund a play estimated to cost about $10,000. The analysis will help to determine whether there are specific factors that make theatrical production fundraising campaigns successful.
