@@ -34,10 +34,10 @@ Minor challenges encountered during the project consisted mostly of “error mes
 
 ## Results
 
-**Conclusions about “Outcomes based on Launch Date”:** <br />
+**Conclusions about “Outcomes based on Launch Date:** <br />
 The month that launched the most successful theatrical production campaigns was May. However, January, March, September, November and December all had roughly the same number of failed campaigns launched. Further, January has the most canceled campaigns. These results, based on this dataset, suggest that fundraising campaigns set between May and June have the most chance of success. <br />
 
-**Conclusions about the “Outcomes based on Goals”:**<br />
+**Conclusions about the “Outcomes based on Goals:**<br />
 Successful Kickstarter campaigns in the dollar-amount range of "less than $1000" were the most successful. The next successful Kickstarter campaigns were in the dollar-amount range of “1000 to 4999”. Kickstarter campaigns in the dollar-amount range of “45000 to 49999 have 100 percent chance of failure. These results, based on this dataset, suggest that a fundraising campaign to fund a play estimated to cost about $10,000 will have about 55% chance of success.<br />. 
 
 **Some limitations of this dataset:**<br />
